@@ -1,5 +1,10 @@
+# レポジトリを移動しました
+[https://github.com/wynnscribe](https://github.com/wynnscribe)
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 # wynnjp
 WynncraftのUIや会話文を日本語に翻訳するModです。
+
 ## 例
 
 <p>
